@@ -1,0 +1,35 @@
+15 EnchantedForest
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+38 5 5
+5
+1 2
+1 3
+1 4
+1 5
+2 5
+1
+4 3 1
+0 0
+
+1 8
+1
+29 src/UVa/EnchantedForest/Code1
+16 -Xmx256m -Xss64m
+4 Main
+41 UVa.EnchantedForest.Code1.EnchantedForest
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.08.23
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

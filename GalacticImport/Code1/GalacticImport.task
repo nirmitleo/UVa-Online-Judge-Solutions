@@ -1,0 +1,46 @@
+14 GalacticImport
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+167 1
+F 0.81 *
+5
+E 0.01 *A
+D 0.01 A*
+C 0.01 *A
+A 1.00 EDCB
+B 0.01 A*
+10
+S 2.23 Q*
+A 9.76 C
+K 5.88 MI
+E 7.54 GC
+M 5.01 OK
+G 7.43 IE
+I 6.09 KG
+C 8.42 EA
+O 4.55 QM
+Q 3.21 SO
+
+41 Import from F
+Import from A
+Import from A
+1
+28 src/UVa/GalacticImport/Code1
+8 -Xmx256M
+4 Main
+39 UVa.GalacticImport.Code1.GalacticImport
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.08.20
+30 Codeforces Round #394 (Div. 2)
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1
