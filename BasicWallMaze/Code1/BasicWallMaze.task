@@ -1,0 +1,30 @@
+13 BasicWallMaze
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+35 1 6
+2 6
+0 0 1 0
+1 5 1 6
+1 5 3 5
+0 0
+7 NEEESWW
+1
+27 src/UVa/BasicWallMaze/Code1
+16 -Xmx256m -Xss64m
+4 Main
+37 UVa.BasicWallMaze.Code1.BasicWallMaze
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.08.23
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

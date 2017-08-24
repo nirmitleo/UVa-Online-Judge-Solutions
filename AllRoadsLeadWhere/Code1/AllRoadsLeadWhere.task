@@ -1,0 +1,74 @@
+17 AllRoadsLeadWhere
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+131 1
+
+7 3
+Rome Turin
+Turin Venice
+Turin Genoa
+Rome Pisa
+Pisa Florence
+Venice Athens
+Turin Milan
+Turin Pisa
+Milan Florence
+Athens Genoa
+14 TRP
+MTRPF
+AVTG
+1
+1
+262 2
+
+7 3
+Rome Turin
+Turin Venice
+Turin Genoa
+Rome Pisa
+Pisa Florence
+Venice Athens
+Turin Milan
+Turin Pisa
+Milan Florence
+Athens Genoa
+
+7 3
+Rome Turin
+Turin Venice
+Turin Genoa
+Rome Pisa
+Pisa Florence
+Venice Athens
+Turin Milan
+Turin Pisa
+Milan Florence
+Athens Genoa
+
+30 TRP
+MTRPF
+AVTG
+
+TRP
+MTRPF
+AVTG
+1
+31 src/UVa/AllRoadsLeadWhere/Code1
+8 -Xmx256M
+4 Main
+45 UVa.AllRoadsLeadWhere.Code1.AllRoadsLeadWhere
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.08.21
+30 Codeforces Round #394 (Div. 2)
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1
