@@ -1,0 +1,38 @@
+18 InterstarTransport
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+59 5 7
+A B 1
+B C 2
+C D 3
+D E 2
+E A 1
+A D 3
+A C 4
+3
+B D
+A D
+E C
+17 B A D
+A D
+E A B C
+1
+32 src/UVa/InterstarTransport/Code1
+8 -Xmx256M
+4 Main
+47 UVa.InterstarTransport.Code1.InterstarTransport
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.08
+39 Codeforces Beta Round #25 (Div. 2 Only)
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

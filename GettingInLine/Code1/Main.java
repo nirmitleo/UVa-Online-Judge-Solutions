@@ -34,13 +34,13 @@ public class Main
             {
                 return;
             }
-//            int[][] dist = new int[n][n];
+//            int[][] getDist = new int[n][n];
 //            for (int i = 0; i < n; i++)
 //            {
 //                st = new StringTokenizer(in.readLine());
 //                for (int j = 0; j < n; j++)
 //                {
-//                    dist[i][j] = Integer.parseInt(st.nextToken());
+//                    getDist[i][j] = Integer.parseInt(st.nextToken());
 //                }
 //            }
             Pair[] a = new Pair[n];

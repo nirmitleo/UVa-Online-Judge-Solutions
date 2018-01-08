@@ -1,0 +1,28 @@
+23 HanoiTowerTroublesAgain
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+6 2
+4
+25
+6 11
+337
+1
+37 src/UVa/HanoiTowerTroublesAgain/Code1
+16 -Xmx256m -Xss64m
+4 Main
+57 UVa.HanoiTowerTroublesAgain.Code1.HanoiTowerTroublesAgain
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.11
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

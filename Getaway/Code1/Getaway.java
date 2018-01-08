@@ -131,7 +131,7 @@ public class Getaway
 
             }
 //            q.add(u);
-//            dist[u]++;
+//            getDist[u]++;
         }
         throw new RuntimeException();
     }

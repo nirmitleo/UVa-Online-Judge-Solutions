@@ -22,7 +22,7 @@
 //    private StringTokenizer st;
 //    private BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 //
-//    public static void main(String ar[]) throws IOException
+//    public static void Main(String ar[]) throws IOException
 //    {
 //        PTriplets demo = new PTriplets();
 //        demo.test();
