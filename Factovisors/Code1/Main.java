@@ -96,7 +96,7 @@ public class Main
 //            }
 //            st = new StringTokenizer(line);
 //            int n = Integer.parseInt(st.nextToken());
-//            TreeMap<Integer, Integer> map = new TreeMap<Integer, Integer>();
+//            TreeMap<Integer, Integer> internalMap = new TreeMap<Integer, Integer>();
 //            for (int i = 2; i <= n; i++)
 //            {
 //                int num = i;
@@ -110,16 +110,16 @@ public class Main
 //                    }
 //                    if (count > 0)
 //                    {
-//                        Integer c = map.get(j);
+//                        Integer c = internalMap.get(j);
 //                        c = c == null ? count : c + count;
-//                        map.put(j, c);
+//                        internalMap.put(j, c);
 //                    }
 //                }
 //                if (num > 1)
 //                {
-//                    Integer c = map.get(num);
+//                    Integer c = internalMap.get(num);
 //                    c = c == null ? 1 : c + 1;
-//                    map.put(num, c);
+//                    internalMap.put(num, c);
 //                }
 //            }
 //
@@ -138,7 +138,7 @@ public class Main
 //                {
 //                    Integer c1 = d.get(i);
 //                    c1 = c1 == null ? count : c1 + count;
-//                    Integer c2 = map.get(i);
+//                    Integer c2 = internalMap.get(i);
 //                    if (c2 == null || c2.compareTo(c1) < 0)
 //                    {
 //                        System.out.println(limit + " does not divide " + n + "!");
@@ -150,7 +150,7 @@ public class Main
 //            {
 //                Integer c1 = d.get(m);
 //                c1 = c1 == null ? 1 : c1 + 1;
-//                Integer c2 = map.get(m);
+//                Integer c2 = internalMap.get(m);
 //                if (c2 == null || c2.compareTo(c1) < 0)
 //                {
 //                    System.out.println(limit + " does not divide " + n + "!");

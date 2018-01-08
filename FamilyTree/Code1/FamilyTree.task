@@ -1,0 +1,30 @@
+10 FamilyTree
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+20 3
+4 4 12
+4 4 6
+5 2 3
+8 15
+13
+17
+1
+24 src/UVa/FamilyTree/Code1
+8 -Xmx256M
+4 Main
+31 UVa.FamilyTree.Code1.FamilyTree
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.26
+30 Codeforces Round #375 (Div. 2)
+0
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

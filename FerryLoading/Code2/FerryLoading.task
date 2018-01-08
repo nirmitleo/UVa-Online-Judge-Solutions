@@ -1,0 +1,40 @@
+12 FerryLoading
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+39 1
+50
+2500
+3000
+1000
+1000
+1500
+700
+800
+0
+46 6
+port
+starboard
+starboard
+starboard
+port
+port
+1
+26 src/UVa/FerryLoading/Code2
+8 -Xmx256M
+4 Main
+35 UVa.FerryLoading.Code2.FerryLoading
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.17
+31 MemSQL Start[c]UP 3.0 - Round 1
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1
