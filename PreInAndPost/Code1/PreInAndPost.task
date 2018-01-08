@@ -1,0 +1,35 @@
+12 PreInAndPost
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+37 3
+3 xYz Yxz
+3 abc cba
+6 ABCDEF CBAEDF
+14 Yzx
+cba
+CBEFDA
+1
+1
+28 1
+11 ABCIJDEKLFM ICJBAKELDMF
+11 IJCBKLEMFDA
+1
+26 src/UVa/PreInAndPost/Code1
+8 -Xmx256M
+4 Main
+35 UVa.PreInAndPost.Code1.PreInAndPost
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.25
+30 Codeforces Round #375 (Div. 2)
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

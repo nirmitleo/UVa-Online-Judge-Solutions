@@ -1,0 +1,57 @@
+17 PhilipJFryProblem
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+110 2
+24 1
+10 0
+2
+10 1
+24 0
+3
+10 0
+24 0
+38 0
+3
+10 1
+24 0
+14 0
+3
+10 1
+24 0
+38 0
+3
+10 1
+24 1
+38 0
+3
+10 3
+24 0
+38 1
+0
+20 29
+22
+72
+36
+53
+41
+41
+1
+31 src/UVa/PhilipJFryProblem/Code1
+8 -Xmx256M
+4 Main
+45 UVa.PhilipJFryProblem.Code1.PhilipJFryProblem
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.23
+30 Codeforces Round #334 (Div. 2)
+0
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1
