@@ -1,0 +1,59 @@
+11 LiftHopping
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+178 2 30
+10 5
+0 1 3 5 7 9 11 13 15 20 99
+4 13 15 19 20 25 30
+2 30
+10 1
+0 5 10 12 14 20 25 30
+2 4 6 8 10 12 14 22 25 28 29
+3 50
+10 50 100
+0 10 30 40
+0 20 30
+0 20 50
+1 1
+2
+0 2 4 6 8 10
+23 275
+285
+3920
+IMPOSSIBLE
+1
+1
+44 2 30
+10 5
+0 13 15 20 99
+4 13 15 19 20 25 30
+
+3 275
+1
+2
+41 3 50
+10 50 100
+0 10 30 40
+0 20 30
+0 20 50
+4 3920
+1
+25 src/UVa/LiftHopping/Code1
+16 -Xmx256m -Xss64m
+4 Main
+33 UVa.LiftHopping.Code1.LiftHopping
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.09.01
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

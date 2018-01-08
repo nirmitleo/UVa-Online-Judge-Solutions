@@ -1,0 +1,84 @@
+12 LongestMatch
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+91 This is a test.
+test
+Hello!
+
+The document provides late-breaking information
+late breaking.
+69 1. Length of longest match: 1
+2. Blank!
+3. Length of longest match: 2
+1
+1
+454 this is a test 
+this is is a a test 
+76.67 67 
+67 67 76
+
+This is a test.
+test
+Hello!
+
+The document provides late-breaking information
+late breaking.
+This is a test.
+test
+Hello!
+
+The document provides late-breaking information
+late breaking.
+This is a test.
+test
+Hello!
+
+The document provides late-breaking information
+late breaking.
+This is a test.
+test
+Hello!
+
+The document provides late-breaking information
+late breaking.
+
+bob ate cake
+bob likes cake
+
+376  1. Length of longest match: 4
+ 2. Length of longest match: 2
+ 3. Blank!
+ 4. Length of longest match: 0
+ 5. Blank!
+ 6. Length of longest match: 0
+ 7. Length of longest match: 0
+ 8. Blank!
+ 9. Length of longest match: 0
+10. Length of longest match: 0
+11. Blank!
+12. Length of longest match: 0
+13. Length of longest match: 0
+14. Blank!
+15. Blank!
+16. Length of longest match: 2
+
+1
+26 src/UVa/LongestMatch/Code2
+8 -Xmx256M
+4 Main
+35 UVa.LongestMatch.Code2.LongestMatch
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.05
+30 Codeforces Round #288 (Div. 2)
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

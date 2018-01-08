@@ -1,0 +1,32 @@
+12 LongestMatch
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+91 This is a test.
+test
+Hello!
+
+The document provides late-breaking information
+late breaking.
+72  1. Length of longest match: 1
+ 2. Blank!
+ 3. Length of longest match: 2
+1
+26 src/UVa/LongestMatch/Code1
+16 -Xmx256m -Xss64m
+4 Main
+35 UVa.LongestMatch.Code1.LongestMatch
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.09.06
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1
