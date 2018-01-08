@@ -1,0 +1,44 @@
+10 FleaCircus
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+54 8
+1 2
+1 3
+2 4
+2 5
+3 6
+3 7
+5 8
+5
+5 1
+7 4
+1 8
+4 7
+7 8
+0
+
+142 The fleas meet at 2.
+The fleas meet at 1.
+The fleas jump forever between 2 and 5.
+The fleas meet at 1.
+The fleas jump forever between 1 and 2.
+1
+24 src/UVa/FleaCircus/Code1
+16 -Xmx256m -Xss64m
+4 Main
+31 UVa.FleaCircus.Code1.FleaCircus
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.02
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

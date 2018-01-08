@@ -1,0 +1,106 @@
+11 GameOfEuler
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+64 3
+
+XXX.
+XXX.
+.XXX
+.XXX
+
+XXXX
+...X
+XX.X
+XX.X
+
+....
+....
+....
+....
+21 LOSING
+WINNING
+LOSING
+1
+1
+252 10 
+
+.... 
+.... 
+.... 
+.... 
+
+.X.. 
+..X. 
+XX.. 
+...X 
+
+...X 
+.X.. 
+X..X 
+..XX 
+
+X..X 
+.... 
+.... 
+X..X 
+
+.... 
+.XX. 
+.XX. 
+.... 
+
+XXXX 
+X..X 
+X..X 
+X... 
+
+.XX. 
+X..X 
+X..X 
+.XX. 
+
+..XX 
+XX.. 
+...X 
+X... 
+
+.... 
+X..X 
+.X.. 
+...X 
+
+XXXX 
+.... 
+..X. 
+XXX.
+75 LOSING
+WINNING
+WINNING
+WINNING
+LOSING
+WINNING
+WINNING
+LOSING
+LOSING
+LOSING
+
+1
+25 src/UVa/GameOfEuler/Code1
+8 -Xmx256M
+4 Main
+33 UVa.GameOfEuler.Code1.GameOfEuler
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.18
+30 Codeforces Round #346 (Div. 2)
+0
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

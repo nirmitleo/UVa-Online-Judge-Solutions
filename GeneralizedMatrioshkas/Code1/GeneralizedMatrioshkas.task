@@ -1,0 +1,38 @@
+22 GeneralizedMatrioshkas
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+184 -9 -7 -2 2 -3 -2 -1 1 2 3 7 9
+-9 -7 -2 2 -3 -1 -2 2 1 3 7 9
+-9 -7 -2 2 -3 -1 -2 3 2 1 7 9
+-100 -50 -6 6 50 100
+-100 -50 -6 6 45 100
+-10 -5 -2 2 5 -4 -3 3 4 10
+-9 -5 -2 2 5 -4 -3 3 4 9
+
+107 :-) Matrioshka!
+:-( Try again.
+:-( Try again.
+:-) Matrioshka!
+:-( Try again.
+:-) Matrioshka!
+:-( Try again.
+1
+36 src/UVa/GeneralizedMatrioshkas/Code1
+16 -Xmx256m -Xss64m
+4 Main
+55 UVa.GeneralizedMatrioshkas.Code1.GeneralizedMatrioshkas
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.03
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

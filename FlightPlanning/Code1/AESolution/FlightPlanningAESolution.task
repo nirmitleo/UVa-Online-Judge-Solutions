@@ -1,0 +1,35 @@
+24 FlightPlanningAESolution
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+41 1
+10
+3 10
+9 5
+4 2
+5 8
+1 5
+7 2
+2 6
+8 3
+4 8
+-1
+1
+39 src/UVa/FlightPlanning/Code1/AESolution
+8 -Xmx256M
+4 Main
+60 UVa.FlightPlanning.Code1.AESolution.FlightPlanningAESolution
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.26
+30 Codeforces Round #375 (Div. 2)
+0
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

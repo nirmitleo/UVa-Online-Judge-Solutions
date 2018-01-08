@@ -1,0 +1,38 @@
+15 FollowingOrders
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+41 a b f g
+a b b f
+v w x y z
+v y x v z v w v
+56 abfg
+abgf
+agbf
+gabf
+
+wxzvy
+wzxvy
+xwzvy
+xzwvy
+zwxvy
+zxwvy
+1
+29 src/UVa/FollowingOrders/Code1
+16 -Xmx256m -Xss64m
+4 Main
+41 UVa.FollowingOrders.Code1.FollowingOrders
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.27
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1
