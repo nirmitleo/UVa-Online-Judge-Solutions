@@ -1,0 +1,90 @@
+9 MallMania
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+45 4
+0 0 0 1 1 1 1 0
+6
+4 3 4 2 3 2
+2 2 2 3
+3 3
+0
+1 2
+1
+1
+133 4
+0 0
+0 1
+1 1
+1 0
+6
+4 3
+4 2
+3 2
+2 2
+2 3
+3 3
+4
+0 0
+0 1
+1 1
+1 0
+6
+3 2
+3 1
+2 1
+1 1
+1 2
+2 2
+4
+0 0
+0 1
+1 1
+1 0
+6
+2 2
+2 1
+1 1
+0 1
+0 2
+1 2
+0
+6 2
+1
+1
+
+1
+2
+45 4
+0 0
+0 1
+1 1
+1 0
+6
+2 2
+2 1
+1 1
+0 1
+0 2
+1 2
+0
+1 1
+1
+23 src/UVa/MallMania/Code1
+16 -Xmx256m -Xss64m
+4 Main
+29 UVa.MallMania.Code1.MallMania
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.08.23
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

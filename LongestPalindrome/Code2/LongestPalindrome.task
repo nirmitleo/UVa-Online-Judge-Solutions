@@ -1,0 +1,30 @@
+17 LongestPalindrome
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+13 3
+ADAM
+
+MADAM
+5 3
+0
+5
+1
+31 src/UVa/LongestPalindrome/Code2
+16 -Xmx256m -Xss64m
+4 Main
+45 UVa.LongestPalindrome.Code2.LongestPalindrome
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.07
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

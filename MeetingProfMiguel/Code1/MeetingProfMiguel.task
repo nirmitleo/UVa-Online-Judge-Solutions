@@ -1,0 +1,45 @@
+17 MeetingProfMiguel
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+76 4
+Y U A B 4
+Y U C A 1
+M U D B 6
+M B C D 2
+A D
+2
+Y U A B 10
+M U C D 20
+A D
+0
+
+25 10 B
+You will never meet.
+1
+1
+27 2
+Y B A A 2
+M B A A 3
+A A
+0
+3 0 A
+1
+31 src/UVa/MeetingProfMiguel/Code1
+8 -Xmx256M
+4 Main
+45 UVa.MeetingProfMiguel.Code1.MeetingProfMiguel
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.08
+39 Codeforces Beta Round #25 (Div. 2 Only)
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

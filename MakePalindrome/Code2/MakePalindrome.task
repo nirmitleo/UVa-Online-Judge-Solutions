@@ -1,0 +1,47 @@
+14 MakePalindrome
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+3
+0
+45 abcd
+aaaa
+abc
+aab
+abababaabababa
+pqrsabcdpqrs
+72 3 abcdcba
+0 aaaa
+2 abcba
+1 baab
+0 abababaabababa
+9 pqrsabcdpqrqpdcbasrqp
+1
+1
+15 apqrsabcdpqrsa
+
+26 9 apqrsabcdpqrqpdcbasrqpa
+
+1
+2
+5 cdccb
+10 2 bcdcdcb
+
+1
+28 src/UVa/MakePalindrome/Code2
+16 -Xmx256m -Xss64m
+4 Main
+39 UVa.MakePalindrome.Code2.MakePalindrome
+39 net.egork.chelper.checkers.TokenChecker
+0 
+1
+47 UVa.MakePalindrome.Code2.MakePalindromeTestCase
+10 2017.10.06
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

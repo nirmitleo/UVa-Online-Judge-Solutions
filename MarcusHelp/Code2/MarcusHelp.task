@@ -1,0 +1,39 @@
+10 MarcusHelp
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+70 2
+6 5
+PST#T
+BTJAS
+TYCVM
+YEHOF
+XIBKU
+N@RJB
+5 4
+JA#X
+JVBN
+XOHD
+DQEM
+T@IY
+82 forth forth right right forth forth forth
+right forth forth left forth forth right
+1
+24 src/UVa/MarcusHelp/Code2
+16 -Xmx256m -Xss64m
+4 Main
+31 UVa.MarcusHelp.Code2.MarcusHelp
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.11
+0 
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1

@@ -1,0 +1,30 @@
+7 Luggage
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+78 3
+1 2 1 2 1
+2 3 4 1 2 5 10 50 3 50
+3 5 2 7 1 7 5 2 8 9 1 25 15 8 3 1 38 45 8 1
+10 NO
+YES
+YES
+1
+21 src/UVa/Luggage/Code3
+8 -Xmx256M
+4 Main
+25 UVa.Luggage.Code3.Luggage
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.10.17
+31 MemSQL Start[c]UP 3.0 - Round 1
+1
+39 ScrapCoding.CrapFastScanner.FastScanner
+39 ScrapCoding.CrapFastPrinter.FastPrinter
+0
+1
